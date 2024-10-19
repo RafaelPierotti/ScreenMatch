@@ -2,7 +2,7 @@ package br.com.screenmatch.modelos;
 
 public class Titulo implements Comparable<Titulo>{
     private String nome;
-    private int anoDeLançamento;
+    private int anoDeLancamento;
     private boolean incluidoNoPlano;
     private double somaDasAvaliações;
     private int totalDeAvaliações;
@@ -10,7 +10,7 @@ public class Titulo implements Comparable<Titulo>{
 
     public Titulo(String nome, int anoDeLançamento){
         this.nome = nome;
-        this.anoDeLançamento = anoDeLançamento;
+        this.anoDeLancamento = anoDeLançamento;
     }
 
     public String getNome() {
@@ -21,12 +21,12 @@ public class Titulo implements Comparable<Titulo>{
         this.nome = nome;
     }
 
-    public int getAnoDeLançamento() {
-        return anoDeLançamento;
+    public int getAnoDeLancamento() {
+        return anoDeLancamento;
     }
 
-    public void setAnoDeLançamento(int anoDeLançamento) {
-        this.anoDeLançamento = anoDeLançamento;
+    public void setAnoDeLancamento(int anoDeLancamento) {
+        this.anoDeLancamento = anoDeLancamento;
     }
 
     public boolean isIncluidoNoPlano() {
@@ -53,6 +53,11 @@ public class Titulo implements Comparable<Titulo>{
         this.duracaoEmMinutos = duracaoEmMinutos;
     }
 
+    public void exibeFichaTecnica(){
+        System.out.println("Nome do filme: " + nome);
+        System.out.println("Ano de lançamento: " + anoDeLancamento);
+    }
+
     public void avalia(double nota){
         somaDasAvaliações += nota;
         totalDeAvaliações++;
@@ -67,8 +72,4 @@ public class Titulo implements Comparable<Titulo>{
         return this.getNome().compareTo(outroTitulo.getNome());
     }
 
-    @Override
-    public String toString(){
-        return "Filme: " + this.getNome() + " (" + this.getAnoDeLançamento() + ")";
-    }
 }
