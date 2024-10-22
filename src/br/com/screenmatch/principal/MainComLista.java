@@ -28,7 +28,7 @@ public class MainComLista {
 
         for (Titulo item: lista){
             System.out.println(item.getNome());
-            if (item instanceof Filme filme && filme.getClassificacao()){
+            if (item instanceof Filme filme && filme.getClassificacao() > 2){
                 System.out.println("Classificação " + filme.getClassificacao());
             }
         }
