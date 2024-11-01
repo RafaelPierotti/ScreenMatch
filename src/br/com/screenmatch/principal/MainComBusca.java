@@ -1,5 +1,8 @@
 package br.com.screenmatch.principal;
 
+import br.com.screenmatch.modelos.Titulo;
+import com.google.gson.Gson;
+
 import java.io.IOException;
 import java.net.URI;
 import java.net.http.HttpClient;
@@ -21,9 +24,15 @@ public class MainComBusca {
                 .build();
         HttpResponse<String> response = client
                 .send(request, HttpResponse.BodyHandlers.ofString());
-        System.out.println(response.body());
+        String json = response.body();
+        System.out.println(json);
 
+        Gson gson = new Gson();
 
+        Titulo meuTitulo = gson.fromJson(json, Titulo.class);
+        System.out.println("Título do filme: " + meuTitulo.getNome());
+
+        System.out.println("Ano de lançamento do filme: " + meuTitulo.getAnoDeLancamento());
     }
 }
 
