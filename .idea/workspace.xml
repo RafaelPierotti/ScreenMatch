@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8a7c0391-d408-47e6-808a-7e40ec651ed3" name="Changes" comment="Mostra Título e ano do filme">
-      <change afterPath="$PROJECT_DIR$/src/br/com/screenmatch/modelos/TituloOmdb.java" afterDir="false" />
+    <list default="true" id="8a7c0391-d408-47e6-808a-7e40ec651ed3" name="Changes" comment="Começo API">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/screenmatch/modelos/Titulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/screenmatch/modelos/Titulo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScreenMatch.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ScreenMatch.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/com/screenmatch/principal/MainComBusca.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/screenmatch/principal/MainComBusca.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,7 +19,6 @@
       <list>
         <option value="Interface" />
         <option value="Class" />
-        <option value="Record" />
       </list>
     </option>
   </component>
@@ -48,21 +46,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "Application.MainComBusca.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Rafael/Documents/Programação/Java/Dependencias/gson-2.11.0.jar",
-    "onboarding.tips.debug.path": "C:/Users/Rafael/Documents/Programação/Java/ScreenMatch/ScreenMatch/src/Main.java",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainComBusca.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Sentry/Documents/Programação/Java/Dependencias/gson-2.11.0.jar&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Rafael/Documents/Programação/Java/ScreenMatch/ScreenMatch/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.17816092&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="br.com.screenmatch.principal" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -144,15 +147,7 @@
       <option name="project" value="LOCAL" />
       <updated>1729630806673</updated>
     </task>
-    <task id="LOCAL-00010" summary="Mostra Título e ano do filme">
-      <option name="closed" value="true" />
-      <created>1730423740234</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1730423740234</updated>
-    </task>
-    <option name="localTasksCounter" value="11" />
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -164,8 +159,7 @@
     <MESSAGE value="MainLista inicial" />
     <MESSAGE value="Main Listas Finalizado Curso 3" />
     <MESSAGE value="Começo API" />
-    <MESSAGE value="Mostra Título e ano do filme" />
-    <option name="LAST_COMMIT_MESSAGE" value="Mostra Título e ano do filme" />
+    <option name="LAST_COMMIT_MESSAGE" value="Começo API" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

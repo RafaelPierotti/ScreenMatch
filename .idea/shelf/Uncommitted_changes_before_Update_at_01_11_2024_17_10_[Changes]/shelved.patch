@@ -1,0 +1,57 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"8a7c0391-d408-47e6-808a-7e40ec651ed3\" name=\"Changes\" comment=\"Começo API\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/br/com/screenmatch/principal/MainComBusca.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/br/com/screenmatch/principal/MainComBusca.java\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Interface\" />\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\">{\r\n  &quot;lastFilter&quot;: {\r\n    &quot;state&quot;: &quot;OPEN&quot;,\r\n    &quot;assignee&quot;: &quot;RafaelPierotti&quot;\r\n  }\r\n}</component>\r\n  <component name=\"GithubPullRequestsUISettings\">{\r\n  &quot;selectedUrlAndAccountId&quot;: {\r\n    &quot;url&quot;: &quot;https://github.com/RafaelPierotti/ScreenMatch.git&quot;,\r\n    &quot;accountId&quot;: &quot;2c961500-5870-4261-b97c-7d037ba2418a&quot;\r\n  }\r\n}</component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 8\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2ndNlv2qjxkOjrGfCbWZMDulbOg\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"Application.Main.executor\": \"Run\",\r\n    \"Application.MainComBusca.executor\": \"Run\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"SHARE_PROJECT_CONFIGURATION_FILES\": \"true\",\r\n    \"git-widget-placeholder\": \"master\",\r\n    \"kotlin-language-version-configured\": \"true\",\r\n    \"last_opened_file_path\": \"C:/Users/Sentry/Documents/Programação/Java/ScreenMatch\",\r\n    \"onboarding.tips.debug.path\": \"C:/Users/Rafael/Documents/Programação/Java/ScreenMatch/ScreenMatch/src/Main.java\"\r\n  }\r\n}]]></component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"8a7c0391-d408-47e6-808a-7e40ec651ed3\" name=\"Changes\" comment=\"\" />\r\n      <created>1729299149337</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1729299149337</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"Calculadora de Tempo\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1729299525407</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1729299525407</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"Calculos\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1729299729043</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1729299729043</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"Calculos\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1729300300058</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1729300300058</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"Modelos\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1729300695171</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1729300695171</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"Principal e mudanças\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1729301157572</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1729301157572</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00006\" summary=\"Main final\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1729301886149</created>\r\n      <option name=\"number\" value=\"00006\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1729301886149</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00007\" summary=\"MainLista inicial\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1729306812945</created>\r\n      <option name=\"number\" value=\"00007\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1729306812945</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00008\" summary=\"Main Listas Finalizado Curso 3\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1729627533000</created>\r\n      <option name=\"number\" value=\"00008\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00008\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1729627533000</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00009\" summary=\"Começo API\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1729630806673</created>\r\n      <option name=\"number\" value=\"00009\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00009\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1729630806673</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"10\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"Calculadora de Tempo\" />\r\n    <MESSAGE value=\"Calculos\" />\r\n    <MESSAGE value=\"Modelos\" />\r\n    <MESSAGE value=\"Principal e mudanças\" />\r\n    <MESSAGE value=\"Main final\" />\r\n    <MESSAGE value=\"MainLista inicial\" />\r\n    <MESSAGE value=\"Main Listas Finalizado Curso 3\" />\r\n    <MESSAGE value=\"Começo API\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Começo API\" />\r\n  </component>\r\n  <component name=\"XDebuggerManager\">\r\n    <breakpoint-manager>\r\n      <breakpoints>\r\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\r\n          <url>file://$PROJECT_DIR$/src/br/com/screenmatch/principal/Main.java</url>\r\n          <line>11</line>\r\n          <option name=\"timeStamp\" value=\"1\" />\r\n        </line-breakpoint>\r\n      </breakpoints>\r\n    </breakpoint-manager>\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision c7d8c59b4170d2ff1bc469b0874acda666991bd1)
++++ b/.idea/workspace.xml	(date 1730321516500)
+@@ -4,9 +4,8 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="8a7c0391-d408-47e6-808a-7e40ec651ed3" name="Changes" comment="Começo API">
++    <list default="true" id="8a7c0391-d408-47e6-808a-7e40ec651ed3" name="Changes" comment="API Pesquisando">
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/br/com/screenmatch/principal/MainComBusca.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/screenmatch/principal/MainComBusca.java" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -53,7 +52,7 @@
+     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+     "git-widget-placeholder": "master",
+     "kotlin-language-version-configured": "true",
+-    "last_opened_file_path": "C:/Users/Sentry/Documents/Programação/Java/ScreenMatch",
++    "last_opened_file_path": "C:/Users/Sentry/Documents/Programação/Java/ApiGoogleBooks",
+     "onboarding.tips.debug.path": "C:/Users/Rafael/Documents/Programação/Java/ScreenMatch/ScreenMatch/src/Main.java"
+   }
+ }]]></component>
+@@ -138,7 +137,15 @@
+       <option name="project" value="LOCAL" />
+       <updated>1729630806673</updated>
+     </task>
+-    <option name="localTasksCounter" value="10" />
++    <task id="LOCAL-00010" summary="API Pesquisando">
++      <option name="closed" value="true" />
++      <created>1729716859500</created>
++      <option name="number" value="00010" />
++      <option name="presentableId" value="LOCAL-00010" />
++      <option name="project" value="LOCAL" />
++      <updated>1729716859500</updated>
++    </task>
++    <option name="localTasksCounter" value="11" />
+     <servers />
+   </component>
+   <component name="VcsManagerConfiguration">
+@@ -150,7 +157,8 @@
+     <MESSAGE value="MainLista inicial" />
+     <MESSAGE value="Main Listas Finalizado Curso 3" />
+     <MESSAGE value="Começo API" />
+-    <option name="LAST_COMMIT_MESSAGE" value="Começo API" />
++    <MESSAGE value="API Pesquisando" />
++    <option name="LAST_COMMIT_MESSAGE" value="API Pesquisando" />
+   </component>
+   <component name="XDebuggerManager">
+     <breakpoint-manager>
