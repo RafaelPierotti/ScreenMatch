@@ -1,5 +1,6 @@
 package br.com.screenmatch.principal;
 
+import br.com.screenmatch.excecao.ErroDeConversaoDeAnoException;
 import br.com.screenmatch.modelos.Titulo;
 import br.com.screenmatch.modelos.TituloOmdb;
 import com.google.gson.FieldNamingPolicy;
@@ -19,7 +20,7 @@ public class MainComBusca {
         System.out.println("Qual filme você deseja pesquisar?");
         var filme = scanner.nextLine();
 
-        String url = "https://www.omdbapi.com/?t=" + filme + "&apikey=43a88045";
+        String url = "https://www.omdbapi.com/?t=" + filme.replace(" ", "+") + "&apikey=43a88045";
 
         try {
             HttpClient client = HttpClient.newHttpClient();
@@ -47,6 +48,10 @@ public class MainComBusca {
             System.out.println(e.getMessage());
         } catch (IllegalArgumentException e) {
             System.out.println("Algum erro de argumento na busca, verifique o endereço");
+        } catch (ErroDeConversaoDeAnoException e){
+            System.out.println(e.getMessage());
+        } catch (NullPointerException e){
+            System.out.println("Filme não encontrado");
         } finally {
             System.out.println("Programa finalizado");
         }
