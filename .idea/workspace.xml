@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8a7c0391-d408-47e6-808a-7e40ec651ed3" name="Changes" comment="Pequenas modificações">
-      <change afterPath="$PROJECT_DIR$/src/br/com/screenmatch/excecao/ErroDeConversaoDeAnoException.java" afterDir="false" />
+    <list default="true" id="8a7c0391-d408-47e6-808a-7e40ec651ed3" name="Changes" comment="Excecao criada">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/screenmatch/modelos/Titulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/screenmatch/modelos/Titulo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/com/screenmatch/principal/MainComBusca.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/screenmatch/principal/MainComBusca.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -165,7 +163,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730926827284</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Excecao criada">
+      <option name="closed" value="true" />
+      <created>1731066773873</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1731066773873</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -179,7 +185,8 @@
     <MESSAGE value="Começo API" />
     <MESSAGE value="Try e catch com exception" />
     <MESSAGE value="Pequenas modificações" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pequenas modificações" />
+    <MESSAGE value="Excecao criada" />
+    <option name="LAST_COMMIT_MESSAGE" value="Excecao criada" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
